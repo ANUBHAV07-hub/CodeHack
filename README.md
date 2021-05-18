@@ -12,3 +12,4 @@ Hacker rank problems solved here in java.
 8) static_initialize1 --------is Java Static Initializer Block problem where we learn how to use static initialization block with some code in it. 
 9) int_to_string1 -------is Java Int to String problem where we learn how to convert an integer to a string in java.
 10) date_time1 -------is Java Date and Time problem where we learn about Java Calendar class. There are other direct methods to return the day but this was the basic one.
+11) currency_formatter -------is Java Currency Formatter problem where we learn about NumberFormat class in text package of java as well as Locale class in util package.
