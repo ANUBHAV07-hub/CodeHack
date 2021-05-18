@@ -9,3 +9,4 @@ Hacker rank problems solved here in java.
 5) loops2 --------is Java Loops II problem where nested loops is used.
 6) datatype1 --------is Java Datatypes problem where we learn about use of different datatypes and their ranges.
 7) EOF --------is Java End-of-File problem where we learn about where cursor ends.
+8) static_initialize1 --------is Java Static Initializer Block problem where we learn how to use static initialization block with some code in it. 
