@@ -11,3 +11,4 @@ Hacker rank problems solved here in java.
 7) EOF --------is Java End-of-File problem where we learn about where cursor ends.
 8) static_initialize1 --------is Java Static Initializer Block problem where we learn how to use static initialization block with some code in it. 
 9) int_to_string1 -------is Java Int to String problem where we learn how to convert an integer to a string in java.
+10) date_time1 -------is Java Date and Time problem where we learn about Java Calendar class. There are other direct methods to return the day but this was the basic one.
