@@ -14,3 +14,4 @@ Hacker rank problems solved here in java.
 10) date_time1 -------is Java Date and Time problem where we learn about Java Calendar class. There are other direct methods to return the day but this was the basic one.
 11) currency_formatter -------is Java Currency Formatter problem where we learn about NumberFormat class in text package of java as well as Locale class in util package.
 12) prime_check1 -------is Java Prime Checker problem where we learn how to use Variable Argument Array to get us saved from method overloading as well as how to solve another error which we solved using import statement to access static member of class.
+13) Factory1 -------is Java Factory Pattern problem where we learn how to return an instance of another class including concepts of interface and inheritance.
