@@ -19,3 +19,4 @@ Hacker rank problems solved here in java.
 15) Substring1 -------is Java Substring problem where we learn how substring method works.
 16) Substring2 -------is Java Substring comparision problem where we learn about lexicography of characters. 
 17) Reverse_string1 ------is Java String Reverse problem where we check whether string is palindrome or not.
+18) Anagram1 ------is Java Anagrams problem where we check frequency of each letter in both striing and compare and if equal then anagram otherwise not.
