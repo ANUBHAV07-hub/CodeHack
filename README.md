@@ -16,3 +16,4 @@ Hacker rank problems solved here in java.
 12) prime_check1 -------is Java Prime Checker problem where we learn how to use Variable Argument Array to get us saved from method overloading as well as how to solve another error which we solved using import statement to access static member of class.
 13) Factory1 -------is Java Factory Pattern problem where we learn how to return an instance of another class including concepts of interface and inheritance.
 14) String1 -------is Java Strings Introduction problem where we learn how to use strings, capitalize them or concatenate as well as length of string.
+15) Substring1 -------is Java Substring problem where we learn how substring method works.
