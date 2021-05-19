@@ -17,3 +17,4 @@ Hacker rank problems solved here in java.
 13) Factory1 -------is Java Factory Pattern problem where we learn how to return an instance of another class including concepts of interface and inheritance.
 14) String1 -------is Java Strings Introduction problem where we learn how to use strings, capitalize them or concatenate as well as length of string.
 15) Substring1 -------is Java Substring problem where we learn how substring method works.
+16) Substring2 -------is Java Substring comparision problem where we learn about lexicography of characters. 
