@@ -1,0 +1,61 @@
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+
+
+
+public class Solution {
+    public static void main(String[] args) throws IOException {
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+
+        List<List<Integer>> arr = new ArrayList<>();
+
+        for (int i = 0; i < 6; i++) {
+            String[] arrRowTempItems = bufferedReader.readLine().replaceAll("\\s+$", "").split(" ");
+
+            List<Integer> arrRowItems = new ArrayList<>();
+
+            for (int j = 0; j < 6; j++) {
+                int arrItem = Integer.parseInt(arrRowTempItems[j]);
+                arrRowItems.add(arrItem);
+            }
+
+            arr.add(arrRowItems);
+        }
+       int[][] p = new int[arr.size()][]; 
+        for (int i = 0; i < p.length; i++) { 
+            p[i] = new int[arr.get(i).size()]; 
+        } 
+        for(int i=0; i<arr.size(); i++){ 
+            for (int j = 0; j < arr.get(i).size(); j++) { 
+                p[i][j] = arr.get(i).get(j); 
+            } 
+        } 
+         
+        int sum=0,z = -63; 
+       for(int i=0;i<4;i++)
+       {
+           for(int j=0;j<4;j++)
+           {
+                sum = p[i][j]+p[i][j+1]+p[i][j+2]+p[i+1][j+1]+p[i+2][j]+p[i+2][j+1]+p[i+2][j+2];
+               if(sum>z)
+               {
+                   z=sum;
+               }
+               else
+               {
+                   
+               }
+           }
+       
+       }
+       System.out.println(z);
+      
+       
+        bufferedReader.close();
+    }
+}
