@@ -26,3 +26,4 @@ Hacker rank problems solved here in java.
 22) valid_username1 --------is Java Valid Username Regular Expression problem where we learn about regex username validator and that it uses matcher only to do that.
 23) Primality_test1 --------is Java Primality Test problem where we check whether number is prime or not using BigInteger's isProbablePrime method.
 24) 1DArray1 ------is Java 1D Array problem where we learn how to create 1D Array and input and output its elements.
+25) 2DArray1 ------is Java 2D Array problem where we learn about implementation of 2D Array using this beautiful hourglass problem.
