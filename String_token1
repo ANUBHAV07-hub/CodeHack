@@ -1,0 +1,32 @@
+import java.io.*;
+import java.util.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        String s = scan.nextLine();
+        String s1 = s.trim();
+        
+        // Write your code here.
+        if(s1.length()>0 && s1.length()<=400000)
+        {
+        String[] str = s1.split("[ !,?._'@;:]+");
+        System.out.println(str.length);
+        for(String a : str)
+        {
+        System.out.println(a);
+        }
+        }
+        else if(s1.length()==0)
+        {
+            System.out.println(0);
+        }
+        else
+        {
+            
+        }
+        scan.close();
+    }
+}
+
