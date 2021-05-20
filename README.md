@@ -21,3 +21,4 @@ Hacker rank problems solved here in java.
 17) Reverse_string1 ------is Java String Reverse problem where we check whether string is palindrome or not.
 18) Anagram1 ------is Java Anagrams problem where we check frequency of each letter in both striing and compare and if equal then anagram otherwise not.
 19) string_token1 -------is Java String Tokens problem where we learn about split and trim methods of string.
+20) Syntax_Checker1 -------is Java Pattern Syntax Checker problem where we learn about Pattern.compile in util.regex.
