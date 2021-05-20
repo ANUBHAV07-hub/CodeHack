@@ -24,3 +24,4 @@ Hacker rank problems solved here in java.
 20) Syntax_Checker1 -------is Java Pattern Syntax Checker problem where we learn about Pattern.compile in util.regex.
 21) BigInteger1 ------is Java BigInteger problem where we learn about how to deal with numbers out of range of long.
 22) valid_username1 --------is Java Valid Username Regular Expression problem where we learn about regex username validator and that it uses matcher only to do that.
+23) Primality_test1 --------is Java Primality Test problem where we check whether number is prime or not using BigInteger's isProbablePrime method.
