@@ -23,3 +23,4 @@ Hacker rank problems solved here in java.
 19) string_token1 -------is Java String Tokens problem where we learn about split and trim methods of string.
 20) Syntax_Checker1 -------is Java Pattern Syntax Checker problem where we learn about Pattern.compile in util.regex.
 21) BigInteger1 ------is Java BigInteger problem where we learn about how to deal with numbers out of range of long.
+22) valid_username1 --------is Java Valid Username Regular Expression problem where we learn about regex username validator and that it uses matcher only to do that.
