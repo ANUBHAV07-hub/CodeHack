@@ -22,3 +22,4 @@ Hacker rank problems solved here in java.
 18) Anagram1 ------is Java Anagrams problem where we check frequency of each letter in both striing and compare and if equal then anagram otherwise not.
 19) string_token1 -------is Java String Tokens problem where we learn about split and trim methods of string.
 20) Syntax_Checker1 -------is Java Pattern Syntax Checker problem where we learn about Pattern.compile in util.regex.
+21) BigInteger1 ------is Java BigInteger problem where we learn about how to deal with numbers out of range of long.
