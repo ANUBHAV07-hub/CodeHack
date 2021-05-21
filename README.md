@@ -30,3 +30,4 @@ Hacker rank problems solved here in java.
 26) subarrays1 ------is Java Subarray problem where we learn how to use subarrays(no direct class or method).
 27) ArrayList1 ------is Java ArrayList problem where we learn how to create and use methods of multidimensional arraylist.
 28) List1 -------is Java List problem where we learn how to create list and use some methods of it.
+29) Map1 ------is Java Map problem where we learn how to create map and when to use which map and some of its methods and traversal also.
