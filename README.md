@@ -27,3 +27,4 @@ Hacker rank problems solved here in java.
 23) Primality_test1 --------is Java Primality Test problem where we check whether number is prime or not using BigInteger's isProbablePrime method.
 24) 1DArray1 ------is Java 1D Array problem where we learn how to create 1D Array and input and output its elements.
 25) 2DArray1 ------is Java 2D Array problem where we learn about implementation of 2D Array using this beautiful hourglass problem.
+26) subarrays1 ------is Java Subarray problem where we learn how to use subarrays(no direct class or method).
