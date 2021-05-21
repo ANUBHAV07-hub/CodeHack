@@ -29,3 +29,4 @@ Hacker rank problems solved here in java.
 25) 2DArray1 ------is Java 2D Array problem where we learn about implementation of 2D Array using this beautiful hourglass problem.
 26) subarrays1 ------is Java Subarray problem where we learn how to use subarrays(no direct class or method).
 27) ArrayList1 ------is Java ArrayList problem where we learn how to create and use methods of multidimensional arraylist.
+28) List1 -------is Java List problem where we learn how to create list and use some methods of it.
