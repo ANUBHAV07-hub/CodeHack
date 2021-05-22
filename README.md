@@ -32,3 +32,4 @@ Hacker rank problems solved here in java.
 28) List1 -------is Java List problem where we learn how to create list and use some methods of it.
 29) Map1 ------is Java Map problem where we learn how to create map and when to use which map and some of its methods and traversal also.
 30) HashSet1 ------is Java HashSet problem where we learn how to create HashSet and use its methods.
+31) GenericMethod1 -------is Java Generics problem where we learn how to create generic methods and when to use them.
