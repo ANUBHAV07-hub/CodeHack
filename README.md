@@ -36,3 +36,4 @@ Hacker rank problems solved here in java.
 32) Sort1 -------is Java Sort problem where we learn how to use Comparator to sort by comparing between cgpa or roll no or id or name etc. 
 33) Inheritance1 -------is Java InheritanceI problem where we learn the concept of inheritance.
 34) Inheritance2 -------is Java InheritanceII problem where we learn how to implement inheritance.
+35) AbstractClass1 ------is Java AbstractClass1 problem where we learn about abstract class and its implementation.
