@@ -45,3 +45,4 @@ Hacker rank problems solved here in java.
 41) ExceptionHandling1 ------is Java Exception Handling problem where we learn about exception handling concept and how to implement it using try and catch block. We can also do this using throws keyword unless you want to print your own exception error.
 42) ExceptionHandling2 ------is Java Exception Handling(2) problem where we learn how to use throw and throws keyword. 
 43) varargs1 ------is Java Varargs-Simple Addition problem where we learn how to implement varargs concept.
+44) reflection-attributes1 ------is Java Reflection-Attributes problem where we learn about getDeclaredMethods and other methods in reflect class of lang.
