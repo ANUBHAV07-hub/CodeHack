@@ -41,3 +41,4 @@ Hacker rank problems solved here in java.
 37) Override1 ------is Java Method Overriding problem where we learn about method overriding and its use.
 38) Override2 ------is Java Method Overriding 2 problem where we learn about super keyword and use of super in method overriding.
 39) Instanceof1 -------is Java Instanceof keyword problem where we learn why and how to use instanceof keyword.
+40) Iterator1 ------is Java Iterator problem where we learn how to use Iterator.
