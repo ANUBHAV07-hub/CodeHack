@@ -47,3 +47,4 @@ Hacker rank problems solved here in java.
 43) varargs1 ------is Java Varargs-Simple Addition problem where we learn how to implement varargs concept.
 44) reflection-attributes1 ------is Java Reflection-Attributes problem where we learn about getDeclaredMethods and other methods in reflect class of lang.
 45) SingletonPattern1 -------is Java Singleton Pattern problem where we learn about use of Singleton. 
+46) CovariantReturnType1 -------is Java Covariant Return Type problem where we learn about concept of covariant return types.
