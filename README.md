@@ -49,3 +49,4 @@ Hacker rank problems solved here in java.
 45) SingletonPattern1 -------is Java Singleton Pattern problem where we learn about use of Singleton. 
 46) CovariantReturnType1 -------is Java Covariant Return Type problem where we learn about concept of covariant return types.
 47) Regex2 ------is Java Regex problem where we learn a little more complex pattern.
+48) Regex3 ------is Java Regex 2 - Duplicate Words problem where we remove duplicate words in a sentence.
