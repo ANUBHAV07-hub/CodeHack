@@ -50,3 +50,4 @@ Hacker rank problems solved here in java.
 46) CovariantReturnType1 -------is Java Covariant Return Type problem where we learn about concept of covariant return types.
 47) Regex2 ------is Java Regex problem where we learn a little more complex pattern.
 48) Regex3 ------is Java Regex 2 - Duplicate Words problem where we remove duplicate words in a sentence.
+49) TagContentExtractor1 -------is Java Tag Content Extractor problem where we print the content between start and end tags of html. 
