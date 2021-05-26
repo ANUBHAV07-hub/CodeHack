@@ -51,3 +51,4 @@ Hacker rank problems solved here in java.
 47) Regex2 ------is Java Regex problem where we learn a little more complex pattern.
 48) Regex3 ------is Java Regex 2 - Duplicate Words problem where we remove duplicate words in a sentence.
 49) TagContentExtractor1 -------is Java Tag Content Extractor problem where we print the content between start and end tags of html. 
+50) BigDecimal1 ------is Java BigDecimal problem where we learn about BigDecimal class methods.
